@@ -100,7 +100,7 @@ To further explore the impact of the multi-scale style modeling framework on the
 
 | Model    | Target Chinese Text  | Audio                                                        |                  Mel-Spectrogram                  |
 | :------- | :------------------- | :----------------------------------------------------------- | :-----------------------------------------------: |
-| WSV      | 明保听了大为高兴啊。 | <audio controls><source src="./wavs/casestudy2/wsv.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy2/wsv.png" width="80%"> |
-| GT       | 明保听了大为高兴啊。 | <audio controls><source src="./wavs/casestudy2/gt.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy2/gt.png" width="80%">  |
-| Proposed | 明保听了大为高兴啊。 | <audio controls><source src="./wavs/casestudy2/proposed.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy2/gt.png" width="80%">  |
+| WSV      | 明保听了大为高兴啊。 | <audio controls><source src="./wavs/casestudy2/wsv.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy2/wsv.png" width="40%"> |
+| GT       | 明保听了大为高兴啊。 | <audio controls><source src="./wavs/casestudy2/gt.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy2/gt.png" width="40%">  |
+| Proposed | 明保听了大为高兴啊。 | <audio controls><source src="./wavs/casestudy2/proposed.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy2/gt.png" width="40%">  |
 
