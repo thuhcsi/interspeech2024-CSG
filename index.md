@@ -51,7 +51,7 @@ To demonstrate that our proposed model can significantly improve the naturalness
 | 瓜尔佳氏哼了一声,呵斥道。                                    | <audio controls><source src="./wavs/cmosl/l05.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./wavs/cmosl/l15.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./wavs/cmosl/l25.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./wavs/cmosl/l35.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./wavs/cmosl/l45.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | 再说了,汪半城也脚着,就算这西施有些说道儿。                   | <audio controls><source src="./wavs/cmosl/l09.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./wavs/cmosl/l19.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./wavs/cmosl/l29.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./wavs/cmosl/l39.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./wavs/cmosl/l49.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 
-## The Effect of Multi-Scale Style Predictor
+## The effect of multi-scale style predictor
 
 | Target Chinese Text                                          | MSStyleTTS                                                   | -residual connections                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -87,7 +87,7 @@ To demonstrate that our proposed model can significantly improve the naturalness
 
 To further explore the impact of the multi-scale style modeling framework on the expressiveness and prosody of synthesized speech, two case studies are conducted to compare our MSStyleTTS with two mono-scale baselines, respectively. The ground truth speeches are also provided as references.
 
-## Test Case 1
+## Test case 1
 
 
 | Model    | Target Chinese Text  | Audio                                                        |                    Mel-Spectrogram                     |
@@ -96,11 +96,11 @@ To further explore the impact of the multi-scale style modeling framework on the
 | GT       | 明保听了大为高兴啊。 | <audio controls><source src="./wavs/casestudy1/gt.wav" type="audio/wav">Your browser does not support the audio element.</audio> |    <img src="./wavs/casestudy1/gt.png" width="40%">    |
 | Proposed | 明保听了大为高兴啊。 | <audio controls><source src="./wavs/casestudy1/proposed.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy1/proposed.png" width="40%"> |
 
-## Test Case 2
+## Test case 2
 
 | Model    | Target Chinese Text  | Audio                                                        |                  Mel-Spectrogram                  |
 | :------- | :------------------- | :----------------------------------------------------------- | :-----------------------------------------------: |
-| WSV      | 明保听了大为高兴啊。 | <audio controls><source src="./wavs/casestudy2/wsv.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy2/wsv.png" width="40%"> |
-| GT       | 明保听了大为高兴啊。 | <audio controls><source src="./wavs/casestudy2/gt.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy2/gt.png" width="40%">  |
-| Proposed | 明保听了大为高兴啊。 | <audio controls><source src="./wavs/casestudy2/proposed.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy2/gt.png" width="40%">  |
+| WSV      | 明保听了大为高兴啊。 | <audio controls><source src="./wavs/casestudy2/wsv.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy2/wsv.png" width="80%"> |
+| GT       | 明保听了大为高兴啊。 | <audio controls><source src="./wavs/casestudy2/gt.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy2/gt.png" width="80%">  |
+| Proposed | 明保听了大为高兴啊。 | <audio controls><source src="./wavs/casestudy2/proposed.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy2/gt.png" width="80%">  |
 
