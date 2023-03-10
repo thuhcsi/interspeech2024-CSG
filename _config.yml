@@ -1,0 +1,6 @@
+  remote_theme: thuhcsi/slate
+title: MSStyleTTS: Multi-scale Style Modeling with Hierarchical Context Information for Expressive Speech Synthesis
+description: Submitted to TASLP
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
