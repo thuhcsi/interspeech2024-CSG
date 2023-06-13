@@ -102,5 +102,5 @@ To further explore the impact of the multi-scale style modeling framework on the
 | :------- | :------------------- | :----------------------------------------------------------- | :-----------------------------------------------: |
 | WSV      | 裕瑚鲁氏摇了摇头。 | <audio controls><source src="./wavs/casestudy2/wsv.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy2/wsv.png" width="40%"> |
 | GT       | 裕瑚鲁氏摇了摇头。 | <audio controls><source src="./wavs/casestudy2/gt.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy2/gt.png" width="40%">  |
-| Proposed | 裕瑚鲁氏摇了摇头。 | <audio controls><source src="./wavs/casestudy2/proposed.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy2/gt.png" width="40%">  |
+| Proposed | 裕瑚鲁氏摇了摇头。 | <audio controls><source src="./wavs/casestudy2/proposed.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./wavs/casestudy2/proposed.png" width="40%">  |
 
