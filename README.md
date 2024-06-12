@@ -1,3 +1,3 @@
-# MSStyleTTS: Multi-scale Style Modeling with Hierarchical Context Information for Expressive Speech Synthesis
+# An End-to-End Approach for Chord-Conditioned Song Generation
 
 Please visit https://thuhcsi.github.io/interspeech2024-CSG
