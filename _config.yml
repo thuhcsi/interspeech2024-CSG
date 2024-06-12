@@ -1,6 +1,6 @@
 remote_theme: thuhcsi/slate
-title: Multi-scale Style Modeling with Hierarchical Context Information for Expressive Speech Synthesis
-description: Submitted to TASLP
+title: An End-to-End Approach for Chord-Conditioned Song Generation
+description: Submitted to interspeech
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
